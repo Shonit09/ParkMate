@@ -1,1 +1,1 @@
-# ParkMate
+A Blockchain-based Autonomous Parking Payment Solution
